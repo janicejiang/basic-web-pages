@@ -1,3 +1,5 @@
+![](https://internetingishard.com/html-and-css/basic-web-pages/html-markup-0761f7.png)
+
 ```html
 <!DOCTYPE html>
 <html lang='en'>
